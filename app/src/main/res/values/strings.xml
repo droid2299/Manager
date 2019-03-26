@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Manager</string>
+    <string name="chunkSize">Enter the chunkSize</string>
+    <string name="button_name">Save</string>
+    <string name="processSize">Enter the processSize</string>
+    <string name="bestFit">Press for BestFit</string>
+    <string name="worstFit">Press for WorstFit</string>
+    <string name="firstFit">Press for FirstFit</string>
+    <string name="blocks">Blocks</string>
+    <string name="processes">Processes</string>
+    <string name="clear">Clear</string>
+
+</resources>
